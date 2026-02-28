@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="632.3" height="1204.527" viewBox="0 0 632.3 1204.527">
+  <defs>
+    <filter id="Vereinigungsmenge_1" x="-0.001" y="0" width="632.3" height="1204.527" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-opacity="0.702"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_126" data-name="Gruppe 126" transform="matrix(0.956, 0.292, -0.292, 0.956, 17.465, -139.266)">
+    <g id="Gruppe_124" data-name="Gruppe 124" transform="matrix(0.914, -0.407, 0.407, 0.914, 171.531, 490.394)">
+      <g id="Gruppe_123" data-name="Gruppe 123" transform="translate(0 0)">
+        <path id="Differenzmenge_1" data-name="Differenzmenge 1" d="M99.054,127.945v0H0L16.028,0h67L99.054,127.943Z" transform="translate(197.667 341.439)" fill="#fff"/>
+        <path id="Differenzmenge_4" data-name="Differenzmenge 4" d="M99.054,127.945v0H0L16.028,0h67L99.054,127.943Z" transform="translate(279.082 350.506) rotate(-45)" fill="#fff"/>
+        <path id="Differenzmenge_6" data-name="Differenzmenge 6" d="M99.054,127.945v0H0L16.028,0h67L99.054,127.943Z" transform="translate(338.685 297.853) rotate(-90)" fill="#fff"/>
+        <path id="Differenzmenge_8" data-name="Differenzmenge 8" d="M99.054,127.945v0H0L16.028,0h67L99.054,127.943Z" transform="translate(349.123 220.564) rotate(-135)" fill="#fff"/>
+        <path id="Differenzmenge_10" data-name="Differenzmenge 10" d="M99.054,127.945v0H0L16.028,0h67L99.054,127.943Z" transform="translate(298.785 160.963) rotate(180)" fill="#fff"/>
+        <path id="Differenzmenge_12" data-name="Differenzmenge 12" d="M99.054,127.945v0H0L16.028,0h67L99.054,127.943Z" transform="translate(220.563 150.522) rotate(135)" fill="#fff"/>
+        <path id="Differenzmenge_14" data-name="Differenzmenge 14" d="M99.054,127.945v0H0L16.028,0h67L99.054,127.943Z" transform="translate(160.962 198.801) rotate(90)" fill="#fff"/>
+        <path id="Differenzmenge_16" data-name="Differenzmenge 16" d="M99.054,127.945v0H0L16.028,0h67L99.054,127.943Z" transform="translate(150.524 273.168) rotate(45)" fill="#fff"/>
+        <path id="Differenzmenge_2" data-name="Differenzmenge 2" d="M99.054,24.763H0L16.028,0h67L99.054,24.762Z" transform="translate(296.721 490.02) rotate(180)" fill="#fff"/>
+        <path id="Differenzmenge_3" data-name="Differenzmenge 3" d="M99.054,24.763H0L16.028,0h67L99.054,24.762Z" transform="translate(454.186 385.527) rotate(135)" fill="#fff"/>
+        <path id="Differenzmenge_5" data-name="Differenzmenge 5" d="M99.054,24.763H0L16.028,0h67L99.054,24.762Z" transform="translate(487.266 198.799) rotate(90)" fill="#fff"/>
+        <path id="Differenzmenge_7" data-name="Differenzmenge 7" d="M99.054,24.764H0L16.028,0h67L99.054,24.762Z" transform="translate(384.144 45.46) rotate(45)" fill="#fff"/>
+        <path id="Differenzmenge_9" data-name="Differenzmenge 9" d="M99.054,24.763H0L16.028,0h67L99.054,24.762Z" transform="translate(199.731 12.38)" fill="#fff"/>
+        <path id="Differenzmenge_11" data-name="Differenzmenge 11" d="M99.054,24.763H0L16.028,0h67L99.054,24.762Z" transform="translate(45.459 115.499) rotate(-45)" fill="#fff"/>
+        <path id="Differenzmenge_13" data-name="Differenzmenge 13" d="M99.054,24.763H0L16.028,0h67L99.054,24.762Z" transform="translate(12.38 297.853) rotate(-90)" fill="#fff"/>
+        <path id="Differenzmenge_15" data-name="Differenzmenge 15" d="M99.054,24.764H0L16.028,0h67L99.054,24.762Z" transform="translate(115.501 448.272) rotate(-135)" fill="#fff"/>
+        <rect id="Rechteck_176" data-name="Rechteck 176" width="28.891" height="28.891" transform="translate(234.812 473.511)" fill="#fff"/>
+        <rect id="Rechteck_177" data-name="Rechteck 177" width="28.891" height="28.891" transform="translate(398.737 417.628) rotate(-45)" fill="#fff"/>
+        <rect id="Rechteck_180" data-name="Rechteck 180" width="28.891" height="28.891" transform="translate(470.756 260.708) rotate(-90)" fill="#fff"/>
+        <rect id="Rechteck_183" data-name="Rechteck 183" width="28.891" height="28.891" transform="translate(416.246 100.91) rotate(-135)" fill="#fff"/>
+        <rect id="Rechteck_186" data-name="Rechteck 186" width="28.891" height="28.891" transform="translate(261.639 28.891) rotate(180)" fill="#fff"/>
+        <rect id="Rechteck_189" data-name="Rechteck 189" width="28.891" height="28.891" transform="translate(100.91 83.397) rotate(135)" fill="#fff"/>
+        <rect id="Rechteck_192" data-name="Rechteck 192" width="28.891" height="28.891" transform="translate(28.891 235.944) rotate(90)" fill="#fff"/>
+        <rect id="Rechteck_195" data-name="Rechteck 195" width="28.891" height="28.891" transform="translate(83.399 392.822) rotate(45)" fill="#fff"/>
+      </g>
+      <ellipse id="Ellipse_27" data-name="Ellipse 27" cx="96.99" cy="96.99" rx="96.99" ry="96.99" transform="translate(152.267 155.713)" fill="#fff"/>
+    </g>
+    <g id="Gruppe_125" data-name="Gruppe 125" transform="matrix(0.883, -0.469, 0.469, 0.883, 0, 257.293)">
+      <g transform="matrix(0.98, 0.19, -0.19, 0.98, 77.07, -93.8)" filter="url(#Vereinigungsmenge_1)">
+        <path id="Vereinigungsmenge_1-2" data-name="Vereinigungsmenge 1" d="M-12502.369-4792.759c-37.009-83.724-67.187-183.781-84.813-247.882a72.246,72.246,0,0,1-55.295-76.587,71.9,71.9,0,0,1,17.99-41.718l-82.792-206.017s-52.6-147.7-55.1-223.073,15.94-75.553,15.94-75.553,46.948,100.644,106.746,235.923c36.669,82.955,66.634,181.945,84.327,246.109a72.244,72.244,0,0,1,56.79,76.919,71.925,71.925,0,0,1-19.091,42.929l82.887,206.248s52.6,147.7,55.1,223.07-15.944,75.553-15.944,75.553S-12442.572-4657.482-12502.369-4792.759Z" transform="matrix(0.98, -0.19, 0.19, 0.98, 13631.29, 3211.92)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="768" viewBox="0 0 1024 768">
+  <defs>
+    <filter id="Rechteck_201" x="45" y="2.5" width="439.5" height="685" filterUnits="userSpaceOnUse">
+      <feOffset dx="137" dy="-21" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="21.5" result="blur"/>
+      <feFlood/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPad_32">
+      <rect width="1024" height="768"/>
+    </clipPath>
+  </defs>
+  <g id="iPad_32" data-name="iPad – 32" clip-path="url(#clip-iPad_32)">
+    <rect width="1024" height="768"/>
+    <g id="Gruppe_127" data-name="Gruppe 127" transform="translate(-2.98 30)">
+      <g id="Pfad_78" data-name="Pfad 78" transform="translate(640.521 622) rotate(180)" fill="none">
+        <path d="M123.5,0,249.041,189.67l-59.531,58.887H62.561L2.041,189.67Z" stroke="none"/>
+        <path d="M 123.5553970336914 7.33087158203125 L 7.168914794921875 189.0793762207031 L 64.18544006347656 244.5576324462891 L 187.8652191162109 244.5576324462891 L 243.8911590576172 189.1377563476562 L 123.5553970336914 7.33087158203125 M 123.5 -1.52587890625e-05 L 249.04052734375 189.67041015625 L 189.5093231201172 248.5576324462891 L 62.56053161621094 248.5576324462891 L 2.040542602539062 189.67041015625 L 123.5 -1.52587890625e-05 Z" stroke="none" fill="#fff"/>
+      </g>
+      <path id="Pfad_79" data-name="Pfad 79" d="M5438.948,6741.5s-4.8-14.481-19.815-4.307c-5.422,4.818-11.661,15.205-1.757,27.354,9.768,15.286,43.471,15.779,61.826,10.3s21.7-26.1,14.619-35.229-25.234-11.348-32.2,0-6.792,20.167-7.792,35.229,0,45.645,0,45.645" transform="translate(-4939.727 -6293.869)" fill="none" stroke="#fff" stroke-width="13"/>
+      <path id="Pfad_80" data-name="Pfad 80" d="M21.489-52.037,2.688,123.886-41.9,154.865Z" transform="matrix(-0.966, -0.259, 0.259, -0.966, 553.134, 570.299)" fill="#fff"/>
+      <path id="Pfad_84" data-name="Pfad 84" d="M-122.935,228.283l56.173,32.358L-99.934,295.5Z" transform="matrix(-0.966, -0.259, 0.259, -0.966, 405.134, 637.492)" fill="#fff"/>
+    </g>
+    <text id="STUDIO" transform="translate(402.5 233)" fill="#fff" font-size="68" font-family="FuturaPT-Book, Futura PT"><tspan x="0" y="0">STUDIO</tspan></text>
+    <text id="GEMPHI" transform="translate(301 353)" fill="#fff" font-size="112" font-family="FuturaBT-Medium, Futura Md BT" font-weight="500"><tspan x="0" y="0">GEMPHI</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rechteck_201)">
+      <g id="Rechteck_201-2" data-name="Rechteck 201" transform="translate(45 88)" fill="none" stroke="#707070" stroke-width="1" opacity="0.23">
+        <rect width="238" height="556" stroke="none"/>
+        <rect x="0.5" y="0.5" width="237" height="555" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
